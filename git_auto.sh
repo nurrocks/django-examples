@@ -17,5 +17,5 @@ eval "git commit -a -m 'change README'"
 eval "git push"
 
 # exec this script each 6000 seconds
-sleep 24000
+sleep 12000
 done
